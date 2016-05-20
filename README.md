@@ -1,2 +1,1 @@
-# doudou-learning
-just for learning javascript
+# 该项目是个人为了学习Javascript前端技术所创建的，希望能和大家共同学习
